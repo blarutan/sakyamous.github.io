@@ -1159,10 +1159,6 @@ section .container {
   }
 }
 
-.credits{
-  bottom: 1px;
-}
-
 .credits a {
   color: #18d26e;
   transition: 0.3s;
